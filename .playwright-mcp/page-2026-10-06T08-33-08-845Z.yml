@@ -1,0 +1,707 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [aria-hidden] [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: aerpace
+      - generic [ref=e6]: Pre-flight check
+      - generic [ref=e7]: 18.52°N 73.86°E
+    - list [ref=e171]:
+      - listitem [ref=e172]:
+        - generic [ref=e173]: Airframe
+        - generic [ref=e175]: OK
+      - listitem [ref=e176]:
+        - generic [ref=e177]: Ducted fans
+        - generic [ref=e179]: OK
+      - listitem [ref=e180]:
+        - generic [ref=e181]: Hydrogen system
+        - generic [ref=e183]: OK
+      - listitem [ref=e184]:
+        - generic [ref=e185]: Sensors
+        - generic [ref=e187]: OK
+      - listitem [ref=e188]:
+        - generic [ref=e189]: Route
+        - generic [ref=e191]: Clear
+    - paragraph [ref=e192]: 5%
+  - status
+  - banner [ref=e193]:
+    - link "aerpace, home" [ref=e194] [cursor=pointer]:
+      - /url: index.html
+    - navigation "Primary" [ref=e197]:
+      - link "aerWing" [ref=e198] [cursor=pointer]:
+        - /url: aerwing.html
+      - link "aerDock" [ref=e199] [cursor=pointer]:
+        - /url: aerdock.html
+      - button "Ecosystem" [ref=e200] [cursor=pointer]
+      - button "Company" [ref=e202] [cursor=pointer]
+      - link "Newsroom" [ref=e204] [cursor=pointer]:
+        - /url: newsroom.html
+      - link "Investors" [ref=e205] [cursor=pointer]:
+        - /url: investors.html
+    - generic [ref=e206]:
+      - paragraph [ref=e207]:
+        - generic [ref=e208]: Pune
+        - generic [ref=e209]: 14:03
+        - generic [ref=e210]: IST
+      - link "Talk to us" [ref=e211] [cursor=pointer]:
+        - /url: contact.html
+  - main [ref=e214]:
+    - generic [ref=e215]:
+      - generic:
+        - img "aerWing hovering above the ground, seen from the side"
+      - generic [ref=e218]:
+        - paragraph [ref=e219]: "[ aerWing · hydrogen VTOL ]"
+        - paragraph [ref=e221]: Pune hub · 18.52°N 73.86°E
+      - heading "Travel is about to change." [level=1] [ref=e222]:
+        - generic [ref=e223]: Travel is about
+        - generic [ref=e226]:
+          - text: to
+          - emphasis [ref=e227]: change.
+      - generic [ref=e228]:
+        - paragraph [ref=e229]: aerWing rises straight up from a dock and flies above the traffic, on hydrogen. The aircraft, the docks and the energy, built as one network.
+        - generic [ref=e230]:
+          - link "Meet aerWing" [ref=e231] [cursor=pointer]:
+            - /url: aerwing.html
+          - link "Why the sky" [ref=e236] [cursor=pointer]:
+            - /url: "#manifesto"
+      - generic [aria-hidden] [ref=e239]:
+        - generic [ref=e240]: Alt 0000 m
+        - generic [ref=e241]: Scroll to take off
+    - generic [ref=e245]:
+      - generic [ref=e247]:
+        - paragraph [ref=e248]: "[ Why the sky ]"
+        - generic [ref=e250]:
+          - paragraph [ref=e251]:
+            - generic [ref=e252]: Cities were built
+            - generic [ref=e255]:
+              - text: around
+              - emphasis [ref=e256]: roads.
+          - paragraph [ref=e257]:
+            - generic [ref=e258]: The next generation
+            - generic [ref=e261]:
+              - text: will move
+              - emphasis [ref=e262]: above them.
+      - generic [aria-hidden]:
+        - generic:
+          - generic: A
+          - generic: Home
+        - generic:
+          - generic: B
+          - generic: Work
+      - generic [ref=e263]:
+        - generic [ref=e264]:
+          - generic [ref=e265]: By road
+          - generic [ref=e266]: 0.0 blocks
+        - generic [ref=e268]:
+          - generic [ref=e269]: Through the air
+          - generic [ref=e270]: 0.0 blocks
+        - paragraph [ref=e272]:
+          - generic [ref=e273]: On this map, the road is
+          - generic [ref=e274]:
+            - text: —×
+            - emphasis [ref=e275]: longer.
+    - generic [ref=e278]:
+      - generic [ref=e279]:
+        - generic [ref=e280]:
+          - text: +
+          - paragraph [ref=e281]: "[ The aircraft ]"
+          - paragraph [ref=e283]: Fig. A · aerWing, plan view
+          - text: +
+        - heading "One aircraft. Five numbers." [level=2] [ref=e284]:
+          - generic [ref=e285]: One aircraft.
+          - generic [ref=e288]:
+            - text: Five
+            - emphasis [ref=e289]: numbers.
+      - generic [ref=e290]:
+        - 'img "aerWing seen from above: a single wing body with ducted fans in the wings" [ref=e452]'
+        - img [aria-hidden] [ref=e453]:
+          - generic [ref=e454]: A
+          - generic [ref=e458]: B
+          - generic [ref=e462]: C
+          - generic [ref=e466]: D
+          - generic [ref=e470]: E
+      - list:
+        - listitem:
+          - generic:
+            - generic: A Vertical take-off and landing
+            - generic: VTOL
+            - generic: No runway. Up from the pad, down onto the pad.
+        - listitem:
+          - generic:
+            - generic: B Hydrogen-powered
+            - generic: H₂
+            - generic: Green hydrogen, produced at the dock.
+        - listitem:
+          - generic:
+            - generic: C Cruising speed
+            - generic:
+              - generic: "200"
+              - generic: km/h
+            - generic: Straight lines, not ring roads.
+        - listitem:
+          - generic:
+            - generic: D Range
+            - generic:
+              - generic: "500"
+              - generic: km
+            - generic: City to city on one fill.
+        - listitem:
+          - generic:
+            - generic: E Maximum weight
+            - generic:
+              - generic: "1.5"
+              - generic: t
+            - generic: People, care or cargo.
+      - generic [ref=e474]:
+        - paragraph [ref=e475]: Drawing the airframe
+        - link "Inspect aerWing" [ref=e477] [cursor=pointer]:
+          - /url: aerwing.html
+    - generic [ref=e480]:
+      - generic [ref=e481]:
+        - generic [ref=e482]:
+          - text: +
+          - paragraph [ref=e483]: "[ Configurations ]"
+          - paragraph [ref=e485]: Same airframe · four interiors
+          - text: +
+        - generic [ref=e486]:
+          - heading "One airframe. Four jobs." [level=2] [ref=e487]:
+            - generic [aria-hidden] [ref=e489]: One airframe.
+            - generic [aria-hidden] [ref=e491]:
+              - emphasis [ref=e492]: Four
+              - text: jobs.
+          - paragraph [ref=e493]: aerWing changes what it carries, not how it flies. Open a configuration to see it.
+        - list [ref=e494]:
+          - listitem [ref=e495]:
+            - button "DRV aerDrive Personal" [ref=e496] [cursor=pointer]:
+              - generic [ref=e497]: DRV
+              - generic [ref=e498]: aerDrive
+              - generic [ref=e499]: Personal
+            - generic [ref=e503]:
+              - figure [ref=e504]:
+                - 'generic "aerDrive: the car docks into aerWing" [ref=e505]'
+              - generic [ref=e506]:
+                - paragraph [ref=e507]: Drive in. Fly out.
+                - paragraph [ref=e508]: Your car docks into aerWing and the trip carries on in the air. You never change seats.
+                - paragraph [ref=e509]: Scenario · Home → airport, without leaving the car
+          - listitem [ref=e511]:
+            - button "TXI aerTaxi Air taxi" [ref=e512] [cursor=pointer]:
+              - generic [ref=e513]: TXI
+              - generic [ref=e514]: aerTaxi
+              - generic [ref=e515]: Air taxi
+            - generic [ref=e519]:
+              - figure [ref=e520]:
+                - img "aerTaxi configuration" [ref=e521]
+              - generic [ref=e522]:
+                - paragraph [ref=e523]: Book a seat. Skip the city.
+                - paragraph [ref=e524]: A shared cabin between docks, above the traffic, at the price of a seat.
+                - paragraph [ref=e525]: Scenario · Across the city, dock to dock
+          - listitem [ref=e527]:
+            - button "CRE aerCare Emergency response" [ref=e528] [cursor=pointer]:
+              - generic [ref=e529]: CRE
+              - generic [ref=e530]: aerCare
+              - generic [ref=e531]: Emergency response
+            - generic [ref=e535]:
+              - figure [ref=e536]:
+                - img "aerCare configuration" [ref=e537]
+              - generic [ref=e538]:
+                - paragraph [ref=e539]: When minutes decide.
+                - paragraph [ref=e540]: A medical configuration that flies straight to where help is needed, with nothing in the way.
+                - paragraph [ref=e541]: Scenario · Hospital → remote district
+          - listitem [ref=e543]:
+            - button "CGO aerCargo Logistics" [ref=e544] [cursor=pointer]:
+              - generic [ref=e545]: CGO
+              - generic [ref=e546]: aerCargo
+              - generic [ref=e547]: Logistics
+            - generic [ref=e551]:
+              - figure [ref=e552]:
+                - img [aria-hidden] [ref=e554]:
+                  - generic [ref=e703]: CARGO MODULE · CONCEPT
+              - generic [ref=e704]:
+                - paragraph [ref=e705]: Freight, off the highway.
+                - paragraph [ref=e706]: A cargo module in place of the cabin. Loads leave the road network behind.
+                - paragraph [ref=e707]: Scenario · Port → industrial zone
+      - generic [aria-hidden]:
+        - generic:
+          - generic:
+            - img [aria-hidden]:
+              - generic: CARGO MODULE · CONCEPT
+    - generic [ref=e710]:
+      - generic [ref=e712]:
+        - generic [ref=e713]:
+          - generic [ref=e714]: Fig. B · systems
+          - img [aria-hidden] [ref=e715]:
+            - generic [ref=e716]: CABIN
+            - generic [ref=e734]: H₂
+        - list [aria-hidden] [ref=e801]:
+          - listitem [ref=e802]: Inside
+          - listitem [ref=e803]: Vertical take-off
+          - listitem [ref=e804]: Hydrogen
+          - listitem [ref=e805]: Propulsion
+          - listitem [ref=e806]: Systems
+          - listitem [ref=e807]: Aerodynamics
+      - generic [ref=e808]:
+        - generic [ref=e809]:
+          - generic [ref=e810]:
+            - text: +
+            - paragraph [ref=e811]: "[ Technology ]"
+            - paragraph [ref=e813]: Six systems
+            - text: +
+          - heading "How it works." [level=2] [ref=e814]:
+            - generic [aria-hidden] [ref=e816]:
+              - text: How it
+              - emphasis [ref=e817]: works.
+        - article [ref=e818]:
+          - paragraph [ref=e819]: "[ Inside ]"
+          - heading [level=3] [ref=e820]:
+            - text: A cabin built around
+            - emphasis [ref=e821]: people.
+          - paragraph [ref=e822]: Seats, controls and storage under one sweep of glass. You see where you are going.
+          - figure [ref=e823]
+        - article [ref=e824]:
+          - paragraph [ref=e825]: "[ Vertical take-off ]"
+          - heading [level=3] [ref=e826]:
+            - text: No runway.
+            - emphasis [ref=e827]: Ever.
+          - paragraph [ref=e828]: aerWing rises straight up from a pad and lands the same way, so a dock fits where an airport never could.
+          - figure [ref=e829]
+        - article [ref=e830]:
+          - paragraph [ref=e831]: "[ Hydrogen ]"
+          - heading [level=3] [ref=e832]:
+            - text: Sunlight in.
+            - emphasis [ref=e833]: Hydrogen
+            - text: out.
+          - paragraph [ref=e834]: aerVolt solar powers the dock. The dock makes green hydrogen. The hydrogen powers the aircraft.
+          - figure [ref=e835]
+        - article [ref=e836]:
+          - paragraph [ref=e837]: "[ Propulsion ]"
+          - heading [level=3] [ref=e838]:
+            - text: Fans inside
+            - emphasis [ref=e839]: the wing.
+          - paragraph [ref=e840]: Ducted electric fans set into the wings and the tail. The ducts keep every blade enclosed.
+          - figure [ref=e841]
+        - article [ref=e842]:
+          - paragraph [ref=e843]: "[ Systems ]"
+          - heading [level=3] [ref=e844]:
+            - text: Always
+            - emphasis [ref=e845]: aware.
+          - paragraph [ref=e846]: Sensors read the airspace around the aircraft, and aerOS keeps it in step with the docks and the network.
+          - figure [ref=e847]
+        - article [ref=e848]:
+          - paragraph [ref=e849]: "[ Aerodynamics ]"
+          - heading [level=3] [ref=e850]:
+            - text: One wing,
+            - emphasis [ref=e851]: nose to tip.
+          - paragraph [ref=e852]: The body is the wing. One continuous surface from the nose to the wingtips.
+          - figure [ref=e853]
+    - generic [ref=e856]:
+      - generic [ref=e857]:
+        - generic [ref=e858]:
+          - text: +
+          - paragraph [ref=e859]: "[ Safety ]"
+          - paragraph [ref=e861]: Redundancy, layer by layer
+          - text: +
+        - heading "Five layers between you and the ground." [level=2] [ref=e862]:
+          - generic [ref=e863]: Five layers between
+          - generic [ref=e866]:
+            - text: you and
+            - emphasis [ref=e867]: the ground.
+      - list [ref=e1077]:
+        - listitem [ref=e1078]:
+          - paragraph [ref=e1079]: Backup batteries
+          - paragraph [ref=e1080]: Reserve power kept apart from the primary supply, so the aircraft always has enough to land.
+        - listitem [ref=e1081]:
+          - paragraph [ref=e1082]: Cold gas thrusters
+          - paragraph: Compressed-gas thrusters that steady the aircraft in an emergency.
+        - listitem [ref=e1083]:
+          - paragraph [ref=e1084]: Collision avoidance
+          - paragraph: Sensors watch the airspace around the aircraft, all the time.
+        - listitem [ref=e1085]:
+          - paragraph [ref=e1086]: Automated fire safety
+          - paragraph: Detection and suppression that act on their own, without waiting for a person.
+        - listitem [ref=e1087]:
+          - paragraph [ref=e1088]: Ballistic parachute
+          - paragraph: A whole-aircraft parachute, fired by a ballistic charge. The last layer.
+    - generic [ref=e1089]:
+      - generic [ref=e1091]:
+        - generic "aerWing arriving at an aerDock hub" [ref=e1092]
+        - generic [ref=e1095]:
+          - generic [ref=e1096]:
+            - text: +
+            - paragraph [ref=e1097]: "[ aerDock ]"
+            - paragraph [ref=e1099]: Infrastructure
+            - text: +
+          - heading "Where the network touches down." [level=2] [ref=e1100]:
+            - generic [ref=e1101]: Where the network
+            - emphasis [ref=e1105]: touches down.
+        - generic [ref=e1106]:
+          - paragraph [ref=e1107]: Docks are the nodes of the network. Aircraft land, refuel with hydrogen made on site, and leave again.
+          - link "Explore aerDock" [ref=e1108] [cursor=pointer]:
+            - /url: aerdock.html
+      - generic [ref=e1113]:
+        - generic [ref=e1114]:
+          - text: +
+          - paragraph [ref=e1115]: "[ What a dock does ]"
+          - paragraph [ref=e1116]: Six functions
+          - text: +
+        - list [ref=e1117]:
+          - listitem [ref=e1118]:
+            - generic [ref=e1122]: Autonomous transport
+            - generic [ref=e1123]: Ground vehicles move people and loads around the pad without a driver.
+          - listitem [ref=e1124]:
+            - generic [ref=e1128]: Charging
+            - generic [ref=e1129]: Power for aircraft and cars, from aerVolt solar.
+          - listitem [ref=e1130]:
+            - generic [ref=e1135]: Green hydrogen
+            - generic [ref=e1136]: Produced on site, from sunlight and water.
+          - listitem [ref=e1137]:
+            - generic [ref=e1140]: Refuelling
+            - generic [ref=e1141]: Hydrogen into the aircraft, between flights.
+          - listitem [ref=e1142]:
+            - generic [ref=e1146]: Logistics
+            - generic [ref=e1147]: Cargo in, cargo out, sorted at the dock.
+          - listitem [ref=e1148]:
+            - generic [ref=e1151]: Maintenance
+            - generic [ref=e1152]: Checks and repairs where the aircraft already is.
+    - generic [ref=e1154]:
+      - generic [ref=e1155]:
+        - generic [ref=e1156]:
+          - text: +
+          - paragraph [ref=e1157]: "[ India network ]"
+          - paragraph [ref=e1159]: Concept · not a schedule
+          - text: +
+        - heading "A country, redrawn in straight lines." [level=2] [ref=e1160]:
+          - generic [aria-hidden] [ref=e1162]: A country,
+          - generic [aria-hidden] [ref=e1164]:
+            - emphasis [ref=e1165]: redrawn
+            - text: in
+          - generic [aria-hidden] [ref=e1167]: straight
+          - generic [aria-hidden] [ref=e1169]: lines.
+        - list [ref=e1170]:
+          - listitem [ref=e1171]:
+            - button "Phase one Point to point Airport transfers and direct hops inside a metro." [pressed] [ref=e1172] [cursor=pointer]:
+              - generic [ref=e1173]: Phase one
+              - generic [ref=e1174]: Point to point
+              - generic [ref=e1175]: Airport transfers and direct hops inside a metro.
+          - listitem [ref=e1177]:
+            - button "Phase two City networks Docks across a city, connected to each other." [ref=e1178] [cursor=pointer]:
+              - generic [ref=e1179]: Phase two
+              - generic [ref=e1180]: City networks
+              - generic: Docks across a city, connected to each other.
+          - listitem [ref=e1182]:
+            - button "Phase three Intercity City pairs within aerWing range, dock to dock." [ref=e1183] [cursor=pointer]:
+              - generic [ref=e1184]: Phase three
+              - generic [ref=e1185]: Intercity
+              - generic: City pairs within aerWing range, dock to dock.
+          - listitem [ref=e1187]:
+            - button "Phase four One network People, cargo and care on one network, powered by aerVolt." [ref=e1188] [cursor=pointer]:
+              - generic [ref=e1189]: Phase four
+              - generic [ref=e1190]: One network
+              - generic: People, cargo and care on one network, powered by aerVolt.
+      - generic [ref=e1192]:
+        - 'img "Map of India showing the conceptual aerWing network: city hubs, intercity routes, care and cargo routes." [ref=e1193]':
+          - generic [ref=e3157]:
+            - generic [ref=e3158]: VABB
+            - generic [ref=e3161]: VAPO
+            - generic [ref=e3164]: VAOZ
+            - generic [ref=e3167]: VIDP
+            - generic [ref=e3170]: VIJP
+            - generic [ref=e3173]: VIAG
+            - generic [ref=e3176]: VICG
+            - generic [ref=e3179]: VOBL
+            - generic [ref=e3182]: VOMM
+            - generic [ref=e3185]: VOMY
+            - generic [ref=e3188]: VOHS
+            - generic [ref=e3191]: VOBZ
+            - generic [ref=e3194]: VECC
+            - generic [ref=e3197]: VEBS
+            - generic [ref=e3200]: VAAH
+            - generic [ref=e3203]: VASU
+            - generic [ref=e3206]: VILK
+            - generic [ref=e3209]: VEGT
+            - generic [ref=e3212]: VEBI
+            - generic [ref=e3215]: VOCI
+            - generic [ref=e3218]: VANP
+            - generic [ref=e3221]: VOGO
+        - generic [ref=e3224]:
+          - generic [ref=e3225]: Intercity
+          - generic [ref=e3227]: Care
+          - generic [ref=e3229]: Cargo
+        - paragraph [ref=e3231]: "Boundary: Survey of India via DataMeet, CC BY 4.0"
+    - generic [ref=e3232]:
+      - generic [ref=e3233]:
+        - generic [ref=e3234]:
+          - generic [ref=e3235]:
+            - text: +
+            - paragraph [ref=e3236]: "[ Specification ]"
+            - paragraph [ref=e3238]: aerWing
+            - text: +
+          - heading "What we can say today." [level=2] [ref=e3239]:
+            - generic [aria-hidden] [ref=e3241]: What we
+            - generic [aria-hidden] [ref=e3243]:
+              - text: can say
+              - emphasis [ref=e3244]: today.
+          - paragraph [ref=e3245]: Figures with a public source are marked public. The rest come from aerpace material and are marked for confirmation before launch.
+        - table "aerWing specification" [ref=e3246]:
+          - row "Ref Item Value Status" [ref=e3247]:
+            - generic [ref=e3248]: Ref
+            - generic [ref=e3249]: Item
+            - generic [ref=e3250]: Value
+            - generic [ref=e3251]: Status
+          - generic [ref=e3252]:
+            - generic [ref=e3253]: A
+            - generic [ref=e3254]: Vertical take-off and landing
+            - generic [ref=e3255]: VTOL
+            - generic [ref=e3256]: To confirm
+          - generic [ref=e3257]:
+            - generic [ref=e3258]: B
+            - generic [ref=e3259]: Hydrogen-powered
+            - generic [ref=e3260]: H₂
+            - generic [ref=e3261]: Public
+          - generic [ref=e3262]:
+            - generic [ref=e3263]: C
+            - generic [ref=e3264]: Cruising speed
+            - generic [ref=e3265]: 200 km/h
+            - generic [ref=e3266]: Public
+          - generic [ref=e3267]:
+            - generic [ref=e3268]: D
+            - generic [ref=e3269]: Range
+            - generic [ref=e3270]: 500 km
+            - generic [ref=e3271]: To confirm
+          - generic [ref=e3272]:
+            - generic [ref=e3273]: E
+            - generic [ref=e3274]: Maximum weight
+            - generic [ref=e3275]: 1.5 t
+            - generic [ref=e3276]: To confirm
+          - generic [ref=e3277]:
+            - generic [ref=e3278]: F
+            - generic [ref=e3279]: Listed company
+            - generic [ref=e3280]: BSE 534733
+            - generic [ref=e3281]: Public
+      - generic "The aerVerse ecosystem" [ref=e3282]:
+        - generic [ref=e3283]:
+          - link "aerWing Aircraft" [ref=e3284] [cursor=pointer]:
+            - /url: aerwing.html
+            - generic [ref=e3286]: aerWing
+            - generic [ref=e3287]: Aircraft
+          - link "aerDock Infrastructure" [ref=e3288] [cursor=pointer]:
+            - /url: aerdock.html
+            - generic [ref=e3290]: aerDock
+            - generic [ref=e3291]: Infrastructure
+          - link "aerCar Ground" [ref=e3292] [cursor=pointer]:
+            - /url: aercar.html
+            - generic [ref=e3294]: aerCar
+            - generic [ref=e3295]: Ground
+          - link "aerVolt Energy" [ref=e3296] [cursor=pointer]:
+            - /url: aervolt.html
+            - generic [ref=e3298]: aerVolt
+            - generic [ref=e3299]: Energy
+          - link "aerShield Defence" [ref=e3300] [cursor=pointer]:
+            - /url: aershield.html
+            - generic [ref=e3302]: aerShield
+            - generic [ref=e3303]: Defence
+          - link "aerOS Software" [ref=e3304] [cursor=pointer]:
+            - /url: aeros.html
+            - generic [ref=e3306]: aerOS
+            - generic [ref=e3307]: Software
+          - link "aerWing Aircraft" [ref=e3308] [cursor=pointer]:
+            - /url: aerwing.html
+            - generic [ref=e3310]: aerWing
+            - generic [ref=e3311]: Aircraft
+          - link "aerDock Infrastructure" [ref=e3312] [cursor=pointer]:
+            - /url: aerdock.html
+            - generic [ref=e3314]: aerDock
+            - generic [ref=e3315]: Infrastructure
+          - link "aerCar Ground" [ref=e3316] [cursor=pointer]:
+            - /url: aercar.html
+            - generic [ref=e3318]: aerCar
+            - generic [ref=e3319]: Ground
+          - link "aerVolt Energy" [ref=e3320] [cursor=pointer]:
+            - /url: aervolt.html
+            - generic [ref=e3322]: aerVolt
+            - generic [ref=e3323]: Energy
+          - link "aerShield Defence" [ref=e3324] [cursor=pointer]:
+            - /url: aershield.html
+            - generic [ref=e3326]: aerShield
+            - generic [ref=e3327]: Defence
+          - link "aerOS Software" [ref=e3328] [cursor=pointer]:
+            - /url: aeros.html
+            - generic [ref=e3330]: aerOS
+            - generic [ref=e3331]: Software
+    - generic [ref=e3333]:
+      - generic [ref=e3334]:
+        - text: +
+        - paragraph [ref=e3335]: "[ Newsroom ]"
+        - link "All news" [ref=e3337] [cursor=pointer]:
+          - /url: newsroom.html
+        - text: +
+      - heading "Latest from the hangar." [level=2] [ref=e3340]:
+        - generic [aria-hidden] [ref=e3342]:
+          - text: Latest from
+          - emphasis [ref=e3343]: the hangar.
+      - generic [ref=e3344]:
+        - 'link "[ Coverage ] 30 Jun 2026 · ScanX aerpace outlines aerVerse: six verticals, one ecosystem aerWing, aerCar, aerDock, aerVolt, aerShield and aerOS, described as one connected framework for mobility and energy. Read on ScanX" [ref=e3345] [cursor=pointer]':
+          - /url: https://scanx.trade/stock-market-news/companies/aerpace-industries-outlines-aerverse-ecosystem-connecting-mobility-and-energy/44386369
+          - figure [ref=e3346]
+          - generic [ref=e3347]:
+            - generic [ref=e3348]: "[ Coverage ]"
+            - generic [ref=e3349]: 30 Jun 2026 · ScanX
+          - generic [ref=e3350]: "aerpace outlines aerVerse: six verticals, one ecosystem"
+          - generic [ref=e3351]: aerWing, aerCar, aerDock, aerVolt, aerShield and aerOS, described as one connected framework for mobility and energy.
+          - generic [ref=e3352]: Read on ScanX
+        - link "[ Coverage ] 12 Aug 2025 · DSIJ Pune hub completes core infrastructure Manufacturing, R&D and administration in one hub. Solar line equipment delivered; aerRecon and aerStriker prototypes complete. Read on DSIJ" [ref=e3355] [cursor=pointer]:
+          - /url: https://insights.dsij.in/dsijarticledetail/penny-stock-hit-upper-circuit-after-company-updates-on-pune-facility-solar-line-commissioning-defense-drones-demos-and-urban-air-mobility-plans-id001-51609
+          - figure [ref=e3356]
+          - generic [ref=e3357]:
+            - generic [ref=e3358]: "[ Coverage ]"
+            - generic [ref=e3359]: 12 Aug 2025 · DSIJ
+          - generic [ref=e3360]: Pune hub completes core infrastructure
+          - generic [ref=e3361]: Manufacturing, R&D and administration in one hub. Solar line equipment delivered; aerRecon and aerStriker prototypes complete.
+          - generic [ref=e3362]: Read on DSIJ
+        - link "[ Coverage ] 29 Sep 2024 · DSIJ Exclusive Middle East partnership for aerWing Distribution rights for aerWing and a dedicated R&D centre in the region. Read on DSIJ" [ref=e3365] [cursor=pointer]:
+          - /url: https://insights.dsij.in/dsijarticledetail/drone-penny-stock-at-rs-5080-hit-upper-circuit-52-week-high-as-company-enters-into-agreement-with-a-prominent-company-in-the-middle-east-id001-42519
+          - figure [ref=e3366]
+          - generic [ref=e3367]:
+            - generic [ref=e3368]: "[ Coverage ]"
+            - generic [ref=e3369]: 29 Sep 2024 · DSIJ
+          - generic [ref=e3370]: Exclusive Middle East partnership for aerWing
+          - generic [ref=e3371]: Distribution rights for aerWing and a dedicated R&D centre in the region.
+          - generic [ref=e3372]: Read on DSIJ
+    - generic [ref=e3375]:
+      - generic "Flying above the clouds" [ref=e3377]
+      - generic [ref=e3378]:
+        - paragraph [ref=e3379]: "[ The vision ]"
+        - paragraph [ref=e3381]:
+          - generic [ref=e3382]: The
+          - generic [ref=e3383]: sky
+          - generic [ref=e3384]: is
+          - generic [ref=e3385]: not
+          - generic [ref=e3386]: the
+          - generic [ref=e3387]: destination.
+          - generic [ref=e3388]: It
+          - generic [ref=e3389]: is
+          - generic [ref=e3390]: the
+          - emphasis [ref=e3391]:
+            - generic [ref=e3392]: network.
+    - generic [ref=e3394]:
+      - generic [ref=e3395]:
+        - generic [ref=e3396]:
+          - text: +
+          - paragraph [ref=e3397]: "[ Next ]"
+          - paragraph [ref=e3399]: Partners · docks · investors
+          - text: +
+        - heading "Ready for the next way to move?" [level=2] [ref=e3400]:
+          - generic [aria-hidden] [ref=e3402]: Ready for
+          - generic [aria-hidden] [ref=e3404]: the next
+          - generic [aria-hidden] [ref=e3406]:
+            - text: way to
+            - emphasis [ref=e3407]: move?
+        - generic [ref=e3408]:
+          - link "Talk to aerpace" [ref=e3409] [cursor=pointer]:
+            - /url: contact.html
+          - link "Host an aerDock" [ref=e3414] [cursor=pointer]:
+            - /url: contact.html
+          - link "Investor relations" [ref=e3419] [cursor=pointer]:
+            - /url: investors.html
+      - generic [ref=e3429]: Pad · awaiting arrival
+  - contentinfo [ref=e3430]:
+    - generic [ref=e3431]:
+      - generic [ref=e3432]:
+        - paragraph [ref=e3433]: "[ Flight notes ]"
+        - paragraph [ref=e3435]:
+          - text: "Occasional letters from the hangar: tests, docks, first flights."
+          - emphasis [ref=e3436]: No noise.
+        - generic [ref=e3437]:
+          - generic [ref=e3438]: Email address
+          - textbox "Email address" [ref=e3440]:
+            - /placeholder: you@company.com
+          - button "Subscribe" [ref=e3441] [cursor=pointer]
+        - paragraph [ref=e3444]: Prototype form · nothing is sent
+      - navigation "Footer" [ref=e3445]:
+        - generic [ref=e3446]:
+          - paragraph [ref=e3447]: Fly
+          - list [ref=e3448]:
+            - listitem [ref=e3449]:
+              - link "aerWing" [ref=e3450] [cursor=pointer]:
+                - /url: aerwing.html
+            - listitem [ref=e3451]:
+              - link "aerDock" [ref=e3452] [cursor=pointer]:
+                - /url: aerdock.html
+            - listitem [ref=e3453]:
+              - link "aerVerse" [ref=e3454] [cursor=pointer]:
+                - /url: aerverse.html
+        - generic [ref=e3455]:
+          - paragraph [ref=e3456]: Ecosystem
+          - list [ref=e3457]:
+            - listitem [ref=e3458]:
+              - link "aerCar" [ref=e3459] [cursor=pointer]:
+                - /url: aercar.html
+            - listitem [ref=e3460]:
+              - link "aerVolt" [ref=e3461] [cursor=pointer]:
+                - /url: aervolt.html
+            - listitem [ref=e3462]:
+              - link "aerShield" [ref=e3463] [cursor=pointer]:
+                - /url: aershield.html
+            - listitem [ref=e3464]:
+              - link "aerOS" [ref=e3465] [cursor=pointer]:
+                - /url: aeros.html
+        - generic [ref=e3466]:
+          - paragraph [ref=e3467]: Company
+          - list [ref=e3468]:
+            - listitem [ref=e3469]:
+              - link "About" [ref=e3470] [cursor=pointer]:
+                - /url: about.html
+            - listitem [ref=e3471]:
+              - link "R&D + Manufacturing" [ref=e3472] [cursor=pointer]:
+                - /url: rnd.html
+            - listitem [ref=e3473]:
+              - link "Projects" [ref=e3474] [cursor=pointer]:
+                - /url: projects.html
+            - listitem [ref=e3475]:
+              - link "aerpace Racers" [ref=e3476] [cursor=pointer]:
+                - /url: racers.html
+            - listitem [ref=e3477]:
+              - link "#MakeTime" [ref=e3478] [cursor=pointer]:
+                - /url: maketime.html
+            - listitem [ref=e3479]:
+              - link "Sustainability" [ref=e3480] [cursor=pointer]:
+                - /url: sustainability.html
+        - generic [ref=e3481]:
+          - paragraph [ref=e3482]: Connect
+          - list [ref=e3483]:
+            - listitem [ref=e3484]:
+              - link "Newsroom" [ref=e3485] [cursor=pointer]:
+                - /url: newsroom.html
+            - listitem [ref=e3486]:
+              - link "Events" [ref=e3487] [cursor=pointer]:
+                - /url: events.html
+            - listitem [ref=e3488]:
+              - link "Investors" [ref=e3489] [cursor=pointer]:
+                - /url: investors.html
+            - listitem [ref=e3490]:
+              - link "Careers" [ref=e3491] [cursor=pointer]:
+                - /url: careers.html
+            - listitem [ref=e3492]:
+              - link "Resources" [ref=e3493] [cursor=pointer]:
+                - /url: resources.html
+            - listitem [ref=e3494]:
+              - link "Contact" [ref=e3495] [cursor=pointer]:
+                - /url: contact.html
+    - generic [ref=e3496]:
+      - generic [ref=e3497]:
+        - paragraph [ref=e3498]: Central hub
+        - paragraph [ref=e3499]: Pune, Maharashtra · 18.52°N 73.86°E
+      - generic [ref=e3500]:
+        - paragraph [ref=e3501]: Local time
+        - paragraph [ref=e3502]: 14:03:08 IST
+      - generic [ref=e3503]:
+        - paragraph [ref=e3504]: Listed
+        - paragraph [ref=e3505]: BSE · 534733
+      - button "Back to top" [ref=e3506] [cursor=pointer]
+    - generic [ref=e3514]:
+      - generic [ref=e3515]: © 2026 Aerpace Industries Ltd
+      - generic [ref=e3516]:
+        - text: "India boundary: Survey of India outline via"
+        - link "DataMeet" [ref=e3517] [cursor=pointer]:
+          - /url: https://github.com/datameet/maps
+        - text: ", CC BY 4.0"
+      - generic [ref=e3518]: Prototype · figures subject to confirmation

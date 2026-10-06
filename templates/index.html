@@ -1,0 +1,206 @@
+<!--META {"page":"home","title":"aerpace · Straight up. Clean all the way.","desc":"aerWing is a hydrogen-electric VTOL aircraft that lifts off from aerDock hubs on ducted electric fans. One network for aircraft, docks, ground vehicles, energy and software, from aerpace, Pune."} -->
+
+<!-- ============================================================ HERO -->
+<section class="hero" data-theme="light" data-hero>
+  <div class="hero__sky" aria-hidden="true"></div>
+  <div class="wrap hero__copy">
+    <p class="tag" data-in><i></i>aerWing · hydrogen-electric VTOL</p>
+    <h1 class="hero__title t-xxl" data-hero-title>
+      <span class="hl"><span>Straight up.</span></span>
+      <span class="hl"><span><em>Clean</em> all the way.</span></span>
+    </h1>
+  </div>
+  <div class="hero__mid">
+    <div class="hero__stage">
+      <div class="hero__pad" aria-hidden="true" data-hero-pad><div class="hero__plane">
+        <svg class="hero__rings" viewBox="0 0 1000 1000">
+          <circle class="hr-mark" cx="500" cy="500" r="470"/>
+          <circle class="hr-mark hr-mark--in" cx="500" cy="500" r="330"/>
+          <path class="hr-h" d="M440 410v180M560 410v180M440 500h120"/>
+          </svg>
+        <span class="hr-w"></span><span class="hr-w"></span><span class="hr-w"></span><span class="hr-w"></span>
+        <span class="hero__light"></span>
+        <span class="hero__shadow" data-hero-shadow></span>
+      </div></div>
+      <div class="hero__craft" data-hero-craft>
+        <img src="media/cut/v-side.webp" alt="aerWing hovering above a landing pad, seen from the side" width="1740" height="564" fetchpriority="high" draggable="false">
+      </div>
+    </div>
+  </div>
+  <div class="wrap hero__foot">
+    <p class="t-lede" data-in>aerWing lifts off a dock on ducted electric fans and flies on green hydrogen made from sunlight. No runway. No traffic.</p>
+    <div class="hero__ctas" data-in>{{BTN:Meet aerWing|aerwing.html|}}<a class="link" href="#manifesto">Why the sky {{ARROW}}</a></div>
+  </div>
+</section>
+
+<!-- ============================================================ MANIFESTO: road vs air -->
+<section class="mf" id="manifesto" data-theme="light" data-mf data-solid>
+  <div class="mf__track">
+    <div class="mf__stage">
+      <canvas class="mf__city" data-city aria-hidden="true"></canvas>
+      <div class="mf__fade" aria-hidden="true"></div>
+      <div class="wrap mf__copy">
+        <p class="tag"><i></i>Why the sky</p>
+        <div class="mf__lines">
+          <p class="mf__l t-xl" data-mf-l="0"><span class="hl"><span>Cities were built</span></span><span class="hl"><span>around <em>roads.</em></span></span></p>
+          <p class="mf__l t-xl" data-mf-l="1"><span class="hl"><span>The next generation</span></span><span class="hl"><span>will move <em>above them.</em></span></span></p>
+        </div>
+      </div>
+      <div class="mf__pins" aria-hidden="true">
+        <span class="mf__pin" data-pin="a"><b>A</b><span class="meta">Home</span></span>
+        <span class="mf__pin" data-pin="b"><b>B</b><span class="meta">Work</span></span>
+      </div>
+      <div class="wrap mf__legend">
+        <div class="mf__key mf__key--road"><span class="meta">By road</span><b class="tabular" data-road>0.0</b><i><b data-road-bar></b></i></div>
+        <div class="mf__key mf__key--air"><span class="meta">Through the air</span><b class="tabular" data-air>0.0</b><i><b data-air-bar></b></i></div>
+        <p class="mf__ratio"><span class="meta">On this map, the road is</span><span class="t-m"><b class="tabular" data-ratio>—</b>× <em>longer.</em></span></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="tt" id="aircraft" data-theme="paper2" data-tt>
+  <div class="tt__track">
+    <div class="tt__stage">
+      <div class="wrap tt__head">
+        <p class="tag"><i></i>The aircraft</p>
+        <h2 class="t-l tt__title"><span class="hl"><span>One aircraft.</span></span><span class="hl"><span><em>Every angle.</em></span></span></h2>
+      </div>
+      <div class="tt__floor" aria-hidden="true"><div class="tt__plane">
+        <svg viewBox="0 0 1000 1000"><circle class="tt-ring" cx="500" cy="500" r="480"/><circle class="tt-ring tt-ring--in" cx="500" cy="500" r="360"/><g class="tt-ticks" data-tt-ticks>{{TT_TICKS}}</g></svg>
+        <span class="tt__glow"></span>
+      </div></div>
+      <div class="tt__views" data-tt-views>{{TT_VIEWS}}</div>
+      <ul class="tt__specs" aria-live="polite">{{TT_SPECS}}</ul>
+      <div class="wrap tt__foot">
+        <div class="tt__tabs" role="group" aria-label="Choose a view">{{TT_TABS}}</div>
+        <a class="link" href="aerwing.html">Inspect aerWing {{ARROW}}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="pw" id="power" data-theme="night" data-pw>
+  <div class="wrap pw__grid">
+    <div class="pw__copy">
+      <p class="tag"><i></i>Clean power</p>
+      <h2 class="t-xl pw__title">Sunlight in. <em>Lift</em> out.</h2>
+      <p class="t-lede pw__lede">aerVolt solar powers the dock. The dock makes green hydrogen. The hydrogen powers the electric fans. Then the aircraft comes home to the same dock.</p>
+      <ol class="pw__list">{{PW_LIST}}</ol>
+    </div>
+    <div class="pw__loop" aria-hidden="true">
+      <svg class="pw__svg" viewBox="0 0 600 600">
+        <circle class="pw-track" cx="300" cy="300" r="230"/>
+        <circle class="pw-charge" cx="300" cy="300" r="230" pathLength="1" data-pw-charge/>
+        {{PW_NODES}}
+        <g data-pw-dot><circle class="pw-halo" r="22"/><circle class="pw-dot" r="7"/></g>
+      </svg>
+      <div class="pw__core"><span class="meta">aerDock</span><span class="pw__core-t" data-pw-core>Sunlight</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================ CONFIGURATIONS -->
+<section class="cf" id="configurations" data-theme="light" data-cf>
+  <div class="wrap">
+    <div class="cf__head">
+      <p class="tag"><i></i>Configurations</p>
+      <h2 class="t-xl">One airframe. <em>Four jobs.</em></h2>
+      <p class="t-body">aerWing changes what it carries, not how it flies.</p>
+    </div>
+    <div class="cf__body">
+      <div class="cf__names" role="tablist" aria-label="Configurations">{{CF_TABS}}</div>
+      <div class="cf__screen">{{CF_PANELS}}</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================ SAFETY -->
+<section class="sf" id="safety" data-theme="night" data-sf data-solid>
+  <div class="sf__track">
+    <div class="sf__stage">
+      <div class="wrap sf__head">
+        <div class="doc"><p class="tag"><i></i>Safety</p><p class="meta">Redundancy, layer by layer</p></div>
+        <h2 class="t-l"><span class="hl"><span>Five layers between</span></span><span class="hl"><span>you and <em>the ground.</em></span></span></h2>
+      </div>
+      <div class="sf__scene" aria-hidden="true">
+        <div class="sf__stack" data-sf-stack>
+          {{SAFE_LAYERS}}
+          <div class="sf__top"><img src="media/cut/v-top.webp" alt="" draggable="false"></div>
+        </div>
+      </div>
+      <ol class="sf__list">{{SAFE_LIST}}</ol>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================ AERDOCK -->
+<section class="dk" id="aerdock" data-theme="night" data-dk data-solid>
+  <div class="dk__track">
+    <div class="dk__stage">
+      <video class="dk__video" src="media/video/arrival.mp4" poster="media/video/arrival.jpg" muted playsinline loop preload="metadata" aria-label="aerWing arriving at an aerDock hub"></video>
+      <svg class="dk__mask" data-dk-svg aria-hidden="true">
+        <defs><mask id="dk-mask" maskUnits="userSpaceOnUse"><rect data-dk-rect fill="#fff"/><g data-dk-a fill="#000">{{DOCK_A}}</g></mask></defs>
+        <rect class="dk__veil" data-dk-veil mask="url(#dk-mask)"/>
+      </svg>
+      <div class="wrap dk__copy">
+        <div class="doc"><p class="tag"><i></i>aerDock</p><p class="meta">Infrastructure</p></div>
+        <h2 class="t-xl dk__title"><span class="hl"><span>Where the network</span></span><span class="hl"><span><em>touches down.</em></span></span></h2>
+      </div>
+      <div class="wrap dk__end">
+        <p class="t-lede">Docks are the nodes of the network. Aircraft land, refuel with hydrogen made on site, and leave again.</p>
+        {{BTN:Explore aerDock|aerdock.html|paper}}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================ NETWORK -->
+<section class="nw" id="network" data-theme="light" data-nw>
+  <div class="wrap nw__grid">
+    <div class="nw__copy">
+      <div class="doc"><p class="tag"><i></i>India network</p><p class="meta">Concept · not a schedule</p></div>
+      <h2 class="t-xl">A country, <em>redrawn</em> in straight lines.</h2>
+      <ol class="nw__phases" data-phases>{{PHASES}}</ol>
+    </div>
+    <div class="nw__map" data-nw-map>
+      <svg class="nw__svg" data-nw-svg role="img" aria-label="Map of India showing the conceptual aerWing network: city hubs, intercity routes, care and cargo routes."></svg>
+      <p class="nw__tip meta" data-nw-tip hidden></p>
+      <div class="nw__legend meta"><span><i class="k-city"></i>Intercity</span><span><i class="k-care"></i>Care</span><span><i class="k-cargo"></i>Cargo</span></div>
+      <p class="nw__credit meta">Boundary: Survey of India via DataMeet, CC BY 4.0</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================ NEWS -->
+<section class="nws" data-theme="light">
+  <div class="wrap">
+    <div class="doc"><p class="tag"><i></i>Newsroom</p><a class="link meta" href="newsroom.html">All news {{ARROW}}</a></div>
+    <h2 class="t-l nws__h" data-reveal="lines">Latest from <em>the hangar.</em></h2>
+    <div class="nws__grid">{{NEWS_CARDS}}</div>
+  </div>
+</section>
+
+<!-- ============================================================ VISION -->
+<section class="vs" data-theme="light" data-vs>
+  <div class="vs__media"><video src="media/video/clouds.mp4" poster="media/video/clouds.jpg" muted playsinline loop preload="metadata" data-autoplay aria-label="Flying above the clouds"></video></div>
+  <div class="wrap vs__copy">
+    <p class="tag"><i></i>The vision</p>
+    <p class="vs__q" data-blur>The sky is not the destination. It is the <em>network.</em></p>
+  </div>
+</section>
+
+<!-- ============================================================ CTA -->
+<section class="cta" data-theme="light" data-cta>
+  <div class="wrap cta__grid">
+    <div class="cta__copy">
+      <p class="tag"><i></i>Next</p>
+      <h2 class="t-xl cta__title" data-reveal="lines">Ready for the next way <em>to move?</em></h2>
+      <p class="t-body cta__body">Partners, aerDock hosts, investors and press: one form reaches the right person.</p>
+      <div class="cta__actions">{{BTN:Talk to aerpace|contact.html|}}{{BTN:Host an aerDock|contact.html|line}}</div>
+    </div>
+    <div class="cta__pad" aria-hidden="true">
+      <svg viewBox="0 0 400 400"><circle class="cp-o" cx="200" cy="200" r="190"/><circle class="cp-i" cx="200" cy="200" r="140"/><path class="cp-h" d="M168 150v100M232 150v100M168 200h64"/></svg><span class="cp-w"></span><span class="cp-w"></span><span class="cp-w"></span>
+    </div>
+  </div>
+</section>
